@@ -5,5 +5,6 @@ hungry = input("Hey, you! Are YOU hungry?")
 if hungry == "yes":
     print("Here, eat this samosa!")
     print("And... Eat this pizza too!")
+    print("Hold up! Eat this doughnut as well!")
 else:
     print("WHAT? DO YOUR HOMEWORK!")
