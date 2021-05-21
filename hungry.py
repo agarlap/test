@@ -10,3 +10,4 @@ else:
     thirsty = input("HEY! Are YOU thirsty?")
     if thirsty == "yes":
         print("DRINK WATER, PLEASE!")
+        print("And... Wanna sprite cranberry? DRINK IT!")
