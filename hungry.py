@@ -14,3 +14,4 @@ else:
         print("DRINK WATER, PLEASE!")
         print("And... Wanna sprite cranberry? DRINK IT!")
         print("NO WAIT! Don't drink sprite!")
+        print("Instead, TASTE THE POWER OF COCA COLA!")
